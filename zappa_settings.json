@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "clouduav.app",
+        "aws_region": "us-west-2",
+        "profile_name": "default",
+        "project_name": "cloud-uav-backe",
+        "runtime": "python3.6",
+        "s3_bucket": "cloud-uav-test-bucket-deleteme"
+    }
+}
