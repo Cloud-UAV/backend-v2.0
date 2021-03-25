@@ -37,7 +37,7 @@ python-editor==1.0.3
 python-mimeparse==1.6.0
 python-slugify==1.2.4
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.1
 s3transfer==0.1.13
 six==1.11.0
